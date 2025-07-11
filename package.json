@@ -13,6 +13,7 @@
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^24.0.12",
+    "drizzle-kit": "^0.31.4",
     "typescript": "^5.8.3"
   },
   "dependencies": {
